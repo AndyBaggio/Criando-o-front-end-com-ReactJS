@@ -163,13 +163,6 @@ $ npm run start
 4. Envie as suas alterações: `git push origin my-feature`
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](https://github.com/firstcontributions/first-contributions)
 
-
-## 📝 Licença
-
-Este projeto esta sobe a licença MIT.
-
-Feito com ❤️ por Douglas A B Novato 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
-
 [git]: https://git-scm.com/doc
 [github]: https://docs.github.com/en
 [nodejs]: https://nodejs.org/
