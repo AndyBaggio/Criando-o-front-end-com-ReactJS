@@ -6,13 +6,6 @@
 	🚧 Huntweb  🚀 em construção... 🚧
 </h4> 
 
-<p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/douglasabnovato/huntweb?color=%2304D361">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/douglasabnovato/huntweb">
-  <a href="https://www.twitter.com/douglasabnovato/">
-    <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%douglasabnovato%2Fhuntweb">
-  </a>
-</p>
 
 ## 💻 Sobre o projeto
 
@@ -136,24 +129,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js][nodejs]. 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode][vscode]
 
-### 🧭 Rodando a aplicação web (Front End)
-
-```bash 
-# Clone este repositório
-$ git clone https://github.com/douglasabnovato/huntweb
-
-# Acesse a pasta do projeto no seu terminal/cmd
-$ cd huntweb 
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run start
-
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3000
-
-```
 
 ## 😯 Como contribuir para o projeto
 
